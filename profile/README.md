@@ -1,2 +1,2 @@
 ## Ālenush Teriān Lab (ATL)
-<img src="./Assets/main.gif" alt="Logo">
+<img src="./Assets/main.jpg" alt="Creative Commons (CC) License">
